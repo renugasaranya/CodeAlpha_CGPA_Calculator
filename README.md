@@ -15,7 +15,6 @@ The user can enter multiple semesters, with a different number of courses in eac
 - Results are displayed up to 2 decimal places
 Technologies Used:
 - Language: C++
-- Header Files: "<iostream>", "<iomanip>"
 - Concepts Used:
   - Arrays
   - Loops
