@@ -1,4 +1,5 @@
 cgpa calculator:
+
 A simple C++ console-based CGPA Calculator developed as part of the CodeAlpha C++ Internship.
 Project Description:
 This program calculates the GPA for each semester and the final CGPA based on the grade points and credits entered for each course.
